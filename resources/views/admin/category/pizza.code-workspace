@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Users\\User\\Downloads\\Compressed\\Admin Dashboard UI"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Users\\User\\Downloads\\Compressed\\customer-ui-20220713T144500Z-001"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pizza"
+	}
+}
