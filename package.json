@@ -5,6 +5,7 @@
         "development": "mix",
         "watch": "mix watch",
         "build": "mix build",
+        "start": "node server.js"
         "watch-poll": "mix watch -- --watch-options-poll=1000",
         "hot": "mix watch --hot",
         "prod": "npm run production",
